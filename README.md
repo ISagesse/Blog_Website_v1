@@ -1,6 +1,8 @@
 # Blog_Website_v1
 This is a blog website that is built using node.js, express, ejs template and it is using an array to save the content.
 
+this website is using lorem ipsum for text.
+
 after you download this project
 
 cd into that folder location using a cmd or powershell
